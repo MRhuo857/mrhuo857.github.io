@@ -17,7 +17,7 @@
       <pubDate>Mon, 27 Apr 2020 22:42:45 +0800</pubDate>
       
       <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>博客搭建 和大家分享一下如何用hugo搭建个人博客。1.安装Hugo 2.到hugo官网按照其步骤进行操作（从第二步骤开始抄代码到第七步）。 官网第二步操作是：将quickstart改为自己的GitHub名 例：mrhuo857.github.io-creator. 官网第四步操作是可以将my-first-post改为自定义的名称，code打开后将draft: true改为draft: false然后新建终端继续运行, 第七步要新建终端运行（原终端不能删除）运行后创建新的目录public。</description>
+      <description>哈哈哈 和大家分享一下如何用hugo搭建个人博客。1.安装Hugo 2.到hugo官网按照其步骤进行操作（从第二步骤开始抄代码到第七步）。 官网第二步操作是：将quickstart改为自己的GitHub名 例：mrhuo857.github.io-creator. 官网第四步操作是可以将my-first-post改为自定义的名称，code打开后将draft: true改为draft: false然后新建终端继续运行, 第七步要新建终端运行（原终端不能删除）运行后创建新的目录public。</description>
     </item>
     
     <item>
